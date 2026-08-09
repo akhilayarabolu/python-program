@@ -7,4 +7,8 @@ if permissions & write:
     print("permission is set")
 else:
     print("permission is not set")
+    output:
+    permission value: 11
+permission is set
+
     
