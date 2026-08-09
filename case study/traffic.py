@@ -4,3 +4,7 @@ if color in colors:
     print("valid traffic signal color")
 else:
     print("invalid traffic signal color")
+    output:enter color:green
+valid traffic signal color
+
+    
